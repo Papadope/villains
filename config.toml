@@ -1,6 +1,6 @@
-baseURL = "https://example.com/"
+baseURL = "https://villains.team/"
 theme = "hugo-ficurinia"
-title = "My nice blog"
+title = "Villains Blog"
 languageCode = "en"
 defaultContentLanguage = "en"
 
